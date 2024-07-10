@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.body{
+  background-color: #f5f5f5;
+}
+ 
+ul{
+    list-style: none;
+    display: flex;
+}
+
+
+.Section1h1{
+    font-size: 56px;
+}
+
+.bg-image {
+    background-image: url('pic/Background\ \(1\).png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin-top: -50px;
+    z-index: -1;
+  }
+
+
+  .Section2h2{
+    text-align: left;
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .Section2card{
+    background-color: #2D3142;
+    border-radius: 10px;
+    width: fit-content;
+    display: inline-block;
+    text-align: left;
+  }
+
+
+  .Section3div1bg{
+    background-image: url('pic/Group\ 238901\ \(3\).png');
+    background-size: cover;
+    background-position: center;
+    
+  }
+
+  .Section3div{
+    margin-top: 20%;
+  }
+  .Section3pic{
+    padding-top: -20%;
+  }
+  .Section3line{
+    margin-top: -10%;
+  }
+
+  .Section4{
+    margin-top: 10%;
+  }
+
+  .Section4h1{
+    font-size: 204px;
+    font-weight: 800;
+    color: #F44335;
+    opacity: 5%;
+    text-align: right;
+    margin-bottom: -60%;
+  }
+
+.Section5divbg {
+    background-image: url('pic/Rectangle\ 32\ \(1\).png');
+    background-size: cover;
+    background-position: center;
+}
+.Section5div{
+  padding-top: 10%;
+}
+
+.Section5h5{
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.Section5p{
+  font-size: 14px;
+  opacity: 40%;
+}
+
+.Section5card{
+  width: 275px;
+  height: 350px;
+}
+
+.Section5absolute{
+  padding-top: 11%;
+  padding-left: 15%;
+}
+
+.Section5absolute2{
+  margin-top: -2%;
+  padding-right: 14%;
+}
+
+footer{
+  margin-top: 10%;
+}
