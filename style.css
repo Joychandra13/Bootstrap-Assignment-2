@@ -20,12 +20,24 @@ ul{
 }
 
 .bg-image {
-    background-image: url('pic/Background\ \(1\).png');
+    background-image: url('pic/Group\ 238901\ \(4\).png');
     background-size: cover;
     background-position: center;
     height: 100vh;
-    margin-top: -50px;
+    margin-top: -100px;
     z-index: -1;
+  }
+
+  .Section1div{ 
+    padding-top: 20%;
+  }
+
+  .bg-image2{
+    background-image: url('pic/Wave.png');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    margin-top: -15%;
   }
 
 
